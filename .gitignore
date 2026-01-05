@@ -1,0 +1,13 @@
+*.zip
+brats20-dataset-training-validation
+*.gv
+*.png
+
+wandb/
+
+models/
+
+__pycache__/
+
+
+wandb_models/*
