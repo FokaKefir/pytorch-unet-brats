@@ -10,7 +10,7 @@ This repository contains a PyTorch-based deep learning pipeline for automated br
 * `UNet3`: Attention-Residual U-Net for localized focus.
 
 
-* **Hybrid Optimization:** Loss function combining **Categorical Cross-Entropy/Focal Loss** and **Dice Loss** ().
+* **Hybrid Optimization:** Loss function combining **Categorical Cross-Entropy** and **Dice Loss**.
 * **Production-Ready Logging:** Full integration with **Weights & Biases (W&B)** for:
 * Real-time metric tracking.
 * Gradient and weight distribution histograms.
